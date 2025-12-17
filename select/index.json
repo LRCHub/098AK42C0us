@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Digital Persona",
+  "base_artist": "Chilli Beans.",
+  "createdAt": "2025-12-17T16:06:58.494032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Digital Persona",
+      "artist": "Chilli Beans.",
+      "has_synced": true,
+      "path": "select/01_Digital_Persona_Chilli_Beans..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Digital Persona",
+      "artist": "Chilli Beans.",
+      "has_synced": false,
+      "path": "select/pl_01_Digital_Persona_Chilli_Beans..txt"
+    }
+  ]
+}
